@@ -1,0 +1,28 @@
+/* =============================
+   WooCommerce Member Price Label
+   ============================= */
+.wcmp-member-label {
+    background: #EDEFF1; /* abu soft background */
+    border-left: 5px solid #BA2C2B; /* aksen merah utama */
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 1.4;
+}
+
+.wcmp-member-label strong {
+    color: #BA2C2B;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 3px;
+}
+
+.wcmp-member-label span {
+    color: #102A82; /* biru elegan */
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+
